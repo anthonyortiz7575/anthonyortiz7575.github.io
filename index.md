@@ -24,7 +24,7 @@ My GitHub page is http://github.com/anthonyortiz7575
 
 * Lab 8
 
-    Lab 8, part 3 was my most favorite because I always wondered how animations were
+    Lab 8, part 3 was my favorite because I always wondered how animations were
     made in programming. This lab was the first time we made an animation, and it was
     cool to see it actually work. I also learned how to program using multiple files,
     and then open files through my code.
